@@ -13,3 +13,11 @@
 - Question 1 [https://codeforces.com/contest/1855/submission/221183360]
 
 - STL from Luv Lec 5, 6 
+
+### Day 3
+
+[08] [31], 2023
+
+-Question 1 [https://codeforces.com/contest/1829/submission/221368900]
+
+- STL from Luv Lec 7, 8, 9
