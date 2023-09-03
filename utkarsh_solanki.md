@@ -18,7 +18,7 @@ August 30 ,2023
 
 August 31 ,2023
 
--Question 1 [https://codeforces.com/contest/1829/submission/221368900]
+- Question 1 [https://codeforces.com/contest/1829/submission/221368900]
 
 - STL from Luv Lec 7, 8, 9
 
@@ -26,9 +26,9 @@ August 31 ,2023
 
 September 1 ,2023
 
--Question 1 [https://codeforces.com/contest/1850/submission/221483631]
+- Question 1 [https://codeforces.com/contest/1850/submission/221483631]
 
--Question 2 [https://codeforces.com/contest/1850/submission/221487540]
+- Question 2 [https://codeforces.com/contest/1850/submission/221487540]
 
 - STL from Luv Lec 10, 11
 
@@ -36,7 +36,7 @@ September 1 ,2023
 
 September 2 ,2023
 
--Question 1 [https://codeforces.com/contest/1849/submission/221594277]
+- Question 1 [https://codeforces.com/contest/1849/submission/221594277]
 
 - STL from Luv Lec 12, 13
 
@@ -44,8 +44,8 @@ September 2 ,2023
 
 September 3 ,2023
 
--Question 1 [https://codeforces.com/contest/1793/submission/221738479]
+- Question 1 [https://codeforces.com/contest/1793/submission/221738479]
 
--Question 2 [https://codeforces.com/contest/1791/submission/221744194]
+- Question 2 [https://codeforces.com/contest/1791/submission/221744194]
 
-Couldn't watch the STL leactures today as I wasn't home for the majority of my day
+- Couldn't watch the STL lectures today because I wasn't home for the  majority of my day
