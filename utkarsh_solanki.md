@@ -39,3 +39,10 @@ September 2 ,2023
 -Question 1 [https://codeforces.com/contest/1849/submission/221594277]
 
 - STL from Luv Lec 12, 13
+
+### Day 6
+
+September 3 ,2023
+
+-Question 1 [https://codeforces.com/contest/1793/submission/221738479]
+
