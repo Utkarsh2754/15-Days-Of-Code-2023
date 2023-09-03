@@ -46,3 +46,6 @@ September 3 ,2023
 
 -Question 1 [https://codeforces.com/contest/1793/submission/221738479]
 
+-Question 2 [https://codeforces.com/contest/1791/submission/221744194]
+
+Couldn't watch the STL leactures today as I wasn't home for the majority of my day
