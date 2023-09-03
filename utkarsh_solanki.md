@@ -2,13 +2,13 @@
 
 ### Day 1
 
-[08] [29], 2023
+August 29 ,2023
 
 - STL from Luv Lec 1, 2, 3, 4 
 
 ### Day 2
 
-[08] [30], 2023
+August 30 ,2023
 
 - Question 1 [https://codeforces.com/contest/1855/submission/221183360]
 
@@ -16,7 +16,7 @@
 
 ### Day 3
 
-[08] [31], 2023
+August 31 ,2023
 
 -Question 1 [https://codeforces.com/contest/1829/submission/221368900]
 
@@ -24,7 +24,7 @@
 
 ### Day 4
 
-[09] [01], 2023
+September 1 ,2023
 
 -Question 1 [https://codeforces.com/contest/1850/submission/221483631]
 
@@ -34,7 +34,7 @@
 
 ### Day 5
 
-[09] [02], 2023
+September 2 ,2023
 
 -Question 1 [https://codeforces.com/contest/1849/submission/221594277]
 
