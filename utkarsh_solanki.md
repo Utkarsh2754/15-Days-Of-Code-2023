@@ -49,3 +49,11 @@ September 3 ,2023
 - Question 2 [https://codeforces.com/contest/1791/submission/221744194]
 
 - Couldn't watch the STL lectures today because I wasn't home for the  majority of my day
+
+### Day 7
+
+September 4 ,2023
+
+- Question 1 [https://codeforces.com/contest/1692/submission/221864863]
+
+- STL from Luv Lec 14, 15
