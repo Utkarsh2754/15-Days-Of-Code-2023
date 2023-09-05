@@ -57,3 +57,12 @@ September 4 ,2023
 - Question 1 [https://codeforces.com/contest/1692/submission/221864863]
 
 - STL from Luv Lec 14, 15
+
+### Day 8
+
+September 5 ,2023
+
+- OPERATIONS ON LINKED LIST:
+ [https://pastebin.com/P1LprrW9]
+
+- Question 1 [https://codeforces.com/contest/1709/submission/221985498]
