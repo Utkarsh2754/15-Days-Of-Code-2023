@@ -74,3 +74,9 @@ September 6 ,2023
 - Question 1 [https://codeforces.com/contest/1675/submission/222173300]
 
 - Question 2 [https://codeforces.com/contest/1674/submission/222177662]
+
+### Day 10
+
+September 7 ,2023
+
+- Attempted the contest and didn't have much time left because of dsa assignment.
