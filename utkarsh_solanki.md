@@ -66,3 +66,11 @@ September 5 ,2023
  [https://pastebin.com/P1LprrW9]
 
 - Question 1 [https://codeforces.com/contest/1709/submission/221985498]
+
+### Day 9
+
+September 6 ,2023
+
+- Question 1 [https://codeforces.com/contest/1675/submission/222173300]
+
+- Question 2 [https://codeforces.com/contest/1674/submission/222177662]
