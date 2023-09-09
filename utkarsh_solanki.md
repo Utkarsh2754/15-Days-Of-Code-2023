@@ -80,3 +80,14 @@ September 6 ,2023
 September 7 ,2023
 
 - Attempted the contest and didn't have much time left because of dsa assignment.
+
+### Day 11
+
+September 8 ,2023
+
+- Question 1 [https://codeforces.com/contest/1791/submission/222543706]
+
+- Question 2 [https://codeforces.com/contest/1855/submission/221618877]
+  *Reattempted this problem, some cases were wrong the first time
+
+- Question 3 [https://codeforces.com/contest/1791/submission/222544842]  
