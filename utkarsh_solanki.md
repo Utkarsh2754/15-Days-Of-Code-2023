@@ -91,3 +91,15 @@ September 8 ,2023
   *Reattempted this problem, some cases were wrong the first time
 
 - Question 3 [https://codeforces.com/contest/1791/submission/222544842]  
+
+### Day 12
+
+September 9 ,2023
+
+- Question 1 [https://codeforces.com/contest/4/submission/222651462]
+
+- Question 2 [https://codeforces.com/contest/231/submission/222686809]
+
+- Question 3 [https://codeforces.com/contest/158/submission/222688448]
+
+- Question 4 [https://codeforces.com/contest/282/submission/222690636]
