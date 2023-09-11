@@ -103,3 +103,13 @@ September 9 ,2023
 - Question 3 [https://codeforces.com/contest/158/submission/222688448]
 
 - Question 4 [https://codeforces.com/contest/282/submission/222690636]
+
+### Day 13
+
+September 10 ,2023
+
+- Question 1 [https://codeforces.com/contest/263/submission/222898554]
+
+- Question 2 [https://codeforces.com/contest/281/submission/222906166]
+
+- Revised Maps and nesting in vectors
