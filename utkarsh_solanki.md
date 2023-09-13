@@ -127,3 +127,15 @@ September 11 ,2023
 - Question 4 [https://codeforces.com/contest/339/submission/222905060]
 
 - Question 5 [https://codeforces.com/contest/71/submission/222651043]
+
+### Day 15
+
+September 12 ,2023
+
+- Question 1 [https://codeforces.com/contest/977/submission/223254169]
+
+- Question 2 [https://codeforces.com/contest/110/submission/223257034]
+
+- Question 3 [https://codeforces.com/contest/734/submission/223258446]
+
+- PPL Assignment: Add, Multiply and subtract using class[https://pastebin.com/EzdhRdFP]
